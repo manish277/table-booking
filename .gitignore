@@ -1,0 +1,11 @@
+
+dist/
+node_modules/
+tmp/
+temp/
+
+www/
+
+
+.DS_Store
+
