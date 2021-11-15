@@ -10,3 +10,4 @@
     "guests":14
 }
 1. guest should not be more than 16
+1. localhost:3000/api/reservations (GET) // for all reservation 
